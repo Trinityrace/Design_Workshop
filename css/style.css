@@ -10,7 +10,20 @@
 
 /********** GENERAL STUFF **********/
 /*************************************/
-
+.trt:hover{
+    color: blue;
+}
+.text-center:hover{
+    color: blue;
+}
+.trt{
+    background-image: url(../images/sl3.jpg);
+    background-position: cover;
+}
+.text-center{
+    background-image: url(../images/sl3.jpg);
+    background-position: cover;
+}
 .fs12 {
     font-size: 12px;
 }
